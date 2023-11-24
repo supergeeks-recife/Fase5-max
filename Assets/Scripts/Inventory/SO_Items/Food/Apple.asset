@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c089459a3c72694dab150f189222eb0, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  icon: {fileID: 3720208698963289732, guid: 4d1799099818c8847a566b0e7e1e515e, type: 3}
+  itemName: "Ma\xE7\xE3"
+  type: 2
+  description: "Ma\xE7\xE3 comum para restaurar vida"
+  value: 1
+  weight: 0.5
+  restorePoints: 5
+  durability: 60

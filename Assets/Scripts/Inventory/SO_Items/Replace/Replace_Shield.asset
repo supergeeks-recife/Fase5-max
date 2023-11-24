@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6129f6c55a02bc4c8f40c71e26825e9, type: 3}
+  m_Name: Replace_Shield
+  m_EditorClassIdentifier: 
+  icon: {fileID: 1223060564524788733, guid: dff4f6f0215bee542bba3179f0f52678, type: 3}
+  itemName: 
+  type: 4
+  description: 
+  value: 0
+  weight: 0
+  defenseBonus: 0
+  speedBonus: 0
+  durability: 0

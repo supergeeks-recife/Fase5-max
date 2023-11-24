@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e71a44bfd6ff4c4f92e971d72973251, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  icon: {fileID: 935100884792125029, guid: 95608b7cea4458349ad0c1648cd814e2, type: 3}
+  itemName: Machado
+  type: 0
+  description: Um machado comum
+  value: 5
+  weight: 10
+  attackBonus: 15
+  magicBonus: 0
+  speedBonus: -1
+  durability: 90

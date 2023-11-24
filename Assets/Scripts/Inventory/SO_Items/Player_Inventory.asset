@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd2f2dc473d8c64498d38192716a81d, type: 3}
+  m_Name: Player_Inventory
+  m_EditorClassIdentifier: 
+  slotList:
+  - item: {fileID: 11400000, guid: c8a1529432ae0e9448a3ac2cc6b3c552, type: 2}
+    amount: 3
+    id: 13
+  equipmentList:
+  - item: {fileID: 11400000, guid: db468f6b0261e6948b378eb14fdbb3bd, type: 2}
+    amount: 1
+    id: 2
+  - item: {fileID: 11400000, guid: 8e84505248de4934d85a1d6c2d53b644, type: 2}
+    amount: 1
+    id: 0
+  - item: {fileID: 11400000, guid: c0e484c3b8d33cf47a6b38a836a5e933, type: 2}
+    amount: 1
+    id: 4
+  - item: {fileID: 11400000, guid: 568188ac1e9e5894bb2428e738b34d7c, type: 2}
+    amount: 1
+    id: 3
+  - item: {fileID: 11400000, guid: 60331227ab7665244af3d3df051f113e, type: 2}
+    amount: 1
+    id: 1
+  OnChangeEquipment:
+    m_PersistentCalls:
+      m_Calls: []
+  database: {fileID: 11400000, guid: f9e2607ec7387624689594157e8e642f, type: 2}

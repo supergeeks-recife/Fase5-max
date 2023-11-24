@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e71a44bfd6ff4c4f92e971d72973251, type: 3}
+  m_Name: Wood Staff
+  m_EditorClassIdentifier: 
+  icon: {fileID: 8028648497822778687, guid: cfd09ca8b83de5d4bbe3095cc87256d2, type: 3}
+  itemName: Cajado de Madeira
+  type: 0
+  description: "Um cajado m\xE1gico de madeira "
+  value: 20
+  weight: 5
+  attackBonus: 5
+  magicBonus: 15
+  speedBonus: 0
+  durability: 100
